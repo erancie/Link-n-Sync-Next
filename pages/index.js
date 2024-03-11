@@ -11,6 +11,7 @@ const Tablet = (props) => {
           <title>exported project</title>
         </Head>
         <div className="tablet-tablet">
+          <h1>WOOHOO</h1>
           <div className="tablet-asset34">
             <img
               alt="Line1779"
