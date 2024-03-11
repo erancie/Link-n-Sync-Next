@@ -7,7 +7,7 @@ const Little = (props) => {
     <>
       <div className={`little-container ${props.rootClassName} `}>
         <div className="little-group3">
-          <span className="little-text">Changes from VSCode</span>
+          <span className="little-text">HEYO OVERWRITE</span>
           <img
             alt="Rectangle133"
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/db5fff75-4872-4c21-8f90-62f5231efef1/268c3f99-11df-45ed-a9a1-d49a203627e0?org_if_sml=19920&amp;force_format=original"
@@ -69,13 +69,13 @@ const Little = (props) => {
           }
           .little-text {
             left: 25px;
-            color: rgba(101, 101, 101, 1);
+            color: rgb(101, 101, 101);
             height: auto;
             position: absolute;
             font-size: 20px;
             font-style: Regular;
             text-align: center;
-            font-family: Inter;
+            font-family: 'Inter';
             font-weight: 400;
             line-height: normal;
             font-stretch: normal;
