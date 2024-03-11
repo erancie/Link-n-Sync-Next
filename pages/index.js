@@ -11,7 +11,6 @@ const Tablet = (props) => {
           <title>exported project</title>
         </Head>
         <div className="tablet-tablet">
-          <h1>WOOHOO</h1>
           <div className="tablet-asset34">
             <img
               alt="Line1779"
@@ -37,12 +36,12 @@ const Tablet = (props) => {
               <img
                 alt="Vector784"
                 src="/external/vector784-b8jk.svg"
-                className="tablet-vector1"
+                className="tablet-vector01"
               />
               <img
                 alt="Vector785"
                 src="/external/vector785-wujs.svg"
-                className="tablet-vector2"
+                className="tablet-vector02"
               />
             </div>
           </div>
@@ -66,17 +65,17 @@ const Tablet = (props) => {
               <img
                 alt="Vector774"
                 src="/external/vector774-4jyd.svg"
-                className="tablet-vector3"
+                className="tablet-vector03"
               />
               <img
                 alt="Vector775"
                 src="/external/vector775-wurp.svg"
-                className="tablet-vector4"
+                className="tablet-vector04"
               />
               <img
                 alt="Vector776"
                 src="/external/vector776-bbtc.svg"
-                className="tablet-vector5"
+                className="tablet-vector05"
               />
             </div>
           </div>
@@ -100,17 +99,51 @@ const Tablet = (props) => {
               <img
                 alt="Vector7131"
                 src="/external/vector7131-fq7n.svg"
-                className="tablet-vector6"
+                className="tablet-vector06"
               />
               <img
                 alt="Vector7132"
                 src="/external/vector7132-skw3.svg"
-                className="tablet-vector7"
+                className="tablet-vector07"
               />
               <img
                 alt="Vector7133"
                 src="/external/vector7133-j82y.svg"
-                className="tablet-vector8"
+                className="tablet-vector08"
+              />
+            </div>
+          </div>
+          <div className="tablet-asset343">
+            <img
+              alt="Line17127"
+              src="/external/line17127-b9r.svg"
+              className="tablet-line13"
+            />
+            <img
+              alt="Line27128"
+              src="/external/line27128-uubl.svg"
+              className="tablet-line23"
+            />
+            <img
+              alt="Rectangle147129"
+              src="/external/rectangle147129-ead-300w.png"
+              className="tablet-rectangle143"
+            />
+            <div className="tablet-pic-icon3">
+              <img
+                alt="Vector7131"
+                src="/external/vector7131-fq7n.svg"
+                className="tablet-vector09"
+              />
+              <img
+                alt="Vector7132"
+                src="/external/vector7132-skw3.svg"
+                className="tablet-vector10"
+              />
+              <img
+                alt="Vector7133"
+                src="/external/vector7133-j82y.svg"
+                className="tablet-vector11"
               />
             </div>
           </div>
@@ -188,14 +221,14 @@ const Tablet = (props) => {
             height: 157px;
             position: absolute;
           }
-          .tablet-vector1 {
+          .tablet-vector01 {
             top: 37.64170455932617px;
             left: 35.69440460205078px;
             width: 38px;
             height: 38px;
             position: absolute;
           }
-          .tablet-vector2 {
+          .tablet-vector02 {
             top: 58.17607116699219px;
             left: 20.53020477294922px;
             width: 161px;
@@ -242,21 +275,21 @@ const Tablet = (props) => {
             align-items: flex-start;
             flex-shrink: 1;
           }
-          .tablet-vector3 {
+          .tablet-vector03 {
             top: 0px;
             left: 0px;
             width: 198px;
             height: 157px;
             position: absolute;
           }
-          .tablet-vector4 {
+          .tablet-vector04 {
             top: 37.64170455932617px;
             left: 35.69440460205078px;
             width: 38px;
             height: 38px;
             position: absolute;
           }
-          .tablet-vector5 {
+          .tablet-vector05 {
             top: 58.17607116699219px;
             left: 20.53020477294922px;
             width: 161px;
@@ -303,21 +336,82 @@ const Tablet = (props) => {
             align-items: flex-start;
             flex-shrink: 1;
           }
-          .tablet-vector6 {
+          .tablet-vector06 {
             top: 0px;
             left: 0px;
             width: 198px;
             height: 157px;
             position: absolute;
           }
-          .tablet-vector7 {
+          .tablet-vector07 {
             top: 37.64170455932617px;
             left: 35.69440460205078px;
             width: 38px;
             height: 38px;
             position: absolute;
           }
-          .tablet-vector8 {
+          .tablet-vector08 {
+            top: 58.17607116699219px;
+            left: 20.53020477294922px;
+            width: 161px;
+            height: 79px;
+            position: absolute;
+          }
+          .tablet-asset343 {
+            width: 327px;
+            height: 436px;
+            display: flex;
+            position: relative;
+            align-items: flex-start;
+            flex-shrink: 1;
+            background-color: rgba(240, 241, 241, 1);
+          }
+          .tablet-line13 {
+            top: 431.6400146484375px;
+            left: 4.360000133514404px;
+            width: 533px;
+            height: 1px;
+            position: absolute;
+          }
+          .tablet-line23 {
+            top: 4.360000133514404px;
+            left: 4.360000133514404px;
+            width: 533px;
+            height: 1px;
+            position: absolute;
+          }
+          .tablet-rectangle143 {
+            top: 135.16000366210938px;
+            left: 47.959999084472656px;
+            width: 231px;
+            height: 166px;
+            position: absolute;
+          }
+          .tablet-pic-icon3 {
+            top: 139.52000427246094px;
+            left: 65.4000015258789px;
+            width: 198.47474670410156px;
+            height: 157.41099548339844px;
+            display: flex;
+            position: absolute;
+            align-items: flex-start;
+            flex-shrink: 1;
+          }
+          .tablet-vector09 {
+            top: 0px;
+            left: 0px;
+            width: 198px;
+            height: 157px;
+            position: absolute;
+          }
+          .tablet-vector10 {
+            top: 37.64170455932617px;
+            left: 35.69440460205078px;
+            width: 38px;
+            height: 38px;
+            position: absolute;
+          }
+          .tablet-vector11 {
             top: 58.17607116699219px;
             left: 20.53020477294922px;
             width: 161px;

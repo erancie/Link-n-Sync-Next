@@ -40,7 +40,7 @@ const Property1Default = (props) => {
             <span>Link ‘n’ Sync</span>
           </span>
           <span className="property1-default-text4">
-            <span>Real-Time Broadcasting BABY!</span>
+            <span>Real-Time Broadcasting</span>
           </span>
           <span className="property1-default-text6">
             <span>Loading..</span>
