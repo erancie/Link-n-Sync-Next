@@ -7,7 +7,7 @@ const Little = (props) => {
     <>
       <div className={`little-container ${props.rootClassName} `}>
         <div className="little-group3">
-          <span className="little-text">HEYO OVERWRITE</span>
+          <span className="little-text">GOLLY</span>
           <img
             alt="Rectangle133"
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/db5fff75-4872-4c21-8f90-62f5231efef1/268c3f99-11df-45ed-a9a1-d49a203627e0?org_if_sml=19920&amp;force_format=original"
